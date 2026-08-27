@@ -25,8 +25,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gold200707&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gold200707&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com/?user=Gold200707&theme=dark&hide_border=true" alt="Sequência no GitHub" />
 </p>
 
 ---
