@@ -1,4 +1,4 @@
-# Gold200715
+# Gold200707
 # Olá, eu sou João Lucas Magordo Rodrigues 👋
 
 > *Aprendendo e evoluindo na programação a cada dia.*
@@ -25,8 +25,8 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gold200715&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gold200715&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gold200707&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gold200707&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
