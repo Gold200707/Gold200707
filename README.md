@@ -42,7 +42,7 @@ Desenvolvedor de Software e entusiasta de **Engenharia de Sistemas**, **Automaç
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Horologia Web Platform** | E-commerce de relógios com crawler automatizado de produtos, backend em FastAPI e React. | FastAPI, MongoDB, React | [Repositório](https://github.com/Gold200707/horologia) |
+| **F1-Hub** | Aplicação web interativa para acompanhamento em tempo real de estatísticas, pilotos e escuderias da Fórmula 1. | React, TypeScript, API | [Repositório](https://github.com/MuriloVReis/f1-hub) |
 | **Vinheria Agnello - IoT** | Sistema de telemetria e monitoramento ambiental com sensores e envio de dados via protocolo MQTT. | ESP32, C++, MQTT, Python | [Repositório](https://github.com/Gabriel-Finzetto/Vinheria-Agnello---IoT) |
 | **Custom Web Scrapers** | Scripts para raspagem resiliente e automação com controle de headers e sessão HTTP. | Python, `curl_cffi` | [Repositório](https://github.com/Gold200707/web-scrapers) |
 
@@ -83,7 +83,7 @@ Software Developer specializing in **Systems Engineering**, **Data Automation**,
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Horologia E-Commerce** | E-commerce platform backed by automated product web crawlers and FastAPI. | FastAPI, MongoDB, React | [Repository](https://github.com/Gold200707/horologia) |
+| **F1-Hub** | Interactive dashboard for real-time Formula 1 statistics, driver standings, and team tracking. | React, TypeScript, API | [Repository](https://github.com/MuriloVReis/f1-hub) |
 | **Vinheria Agnello - IoT** | Environmental telemetry and monitoring system using sensors and MQTT broker. | ESP32, C++, MQTT, Python | [Repository](https://github.com/Gabriel-Finzetto/Vinheria-Agnello---IoT) |
 | **Web Scraping Suites** | Python suites for automated extraction with HTTP header bypass. | Python, `curl_cffi` | [Repository](https://github.com/Gold200707/web-scrapers) |
 
